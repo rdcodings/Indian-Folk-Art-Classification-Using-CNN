@@ -1,4 +1,5 @@
 # Indian Folk Art Classification Using Convolutional Neural Networks
+![Indian Folk Art](https://github.com/rdcodings/Indian-Folk-Art-Classification-Using-CNN/blob/4c173a4ccab958bb8f5453f99643d6f0e012697e/Indian%20Folk%20Art.png)
 
 ## Overview
 
